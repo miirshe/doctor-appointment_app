@@ -1,0 +1,1 @@
+const String KEndPoint = "http://172.21.144.1/doctor-appointment/server/";

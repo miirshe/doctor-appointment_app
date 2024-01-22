@@ -1,0 +1,2 @@
+const String ISLOGGEDIN = 'ISLOGGEDIN';
+const String USERINFO = "USERINFO";
